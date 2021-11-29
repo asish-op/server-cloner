@@ -1,3 +1,11 @@
+## what to do if you don't have python on your pc 
+- download exe version (click here)[soon!]
+
+
+## How to install 
+- run main.py
+
+
 ## Features
 - Clone Channels
 - Channel Permissions
