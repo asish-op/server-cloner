@@ -14,3 +14,6 @@
 - Server Banner / Avatar
 - Server Emojis
 - Server Settings 
+
+## Video
+- [video here](e)
