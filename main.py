@@ -5,12 +5,6 @@ import psutil
 from pypresence import Presence
 import time
 import sys
-client_id = '898793101018169374'
-RPC = Presence(client_id,pipe=0)
-RPC.connect()
-start_time=time.time()
-RPC.update(start=start_time, state=f"Cloning a server!",large_image="lua", large_text="TIC   Cloner",
-            small_image="me", small_text="By TEAMIC",buttons=[{"label": "Join Server", "url": "https://discord.gg/2GQ8PswfbZ"}])
 import discord
 import asyncio
 import colorama
