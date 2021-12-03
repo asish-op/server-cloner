@@ -1,5 +1,5 @@
 ## what to do if you don't have python on your pc 
-- download exe version [clickhere](soon!)
+- download exe version [clickhere]() (coming soon!)
 
 
 ## How to install 
